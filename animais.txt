@@ -1,0 +1,24 @@
+codigo: b, nome: b, raca: b, anoDeNascimento: 10, nomeDono: b, cpfDono: b, tipoAnimal: Selvagem
+
+codigo: a, nome: a, raca: a, anoDeNascimento: 200, nomeDono: a, cpfDono: a, tipoAnimal: Selvagem
+
+codigo: c, nome: c, raca: c, anoDeNascimento: 20, nomeDono: c, cpfDono: c, tipoAnimal: Selvagem
+
+codigo: d, nome: d, raca: d, anoDeNascimento: 2020, nomeDono: d, cpfDono: d, tipoAnimal: Selvagem
+
+codigo: e, nome: e, raca: e, anoDeNascimento: 2020, nomeDono: e, cpfDono: e, tipoAnimal: Selvagem
+
+codigo: f, nome: f, raca: f, anoDeNascimento: 2020, nomeDono: f, cpfDono: f, tipoAnimal: Selvagem
+
+codigo: g, nome: gg, raca: g, anoDeNascimento: 2020, nomeDono: g, cpfDono: g, tipoAnimal: Selvagem
+
+codigo: h, nome: h, raca: h, anoDeNascimento: 2020, nomeDono: h, cpfDono: h, tipoAnimal: Selvagem
+
+codigo: i, nome: i, raca: i, anoDeNascimento: 2020, nomeDono: i, cpfDono: i, tipoAnimal: Selvagem
+
+codigo: j, nome: j, raca: j, anoDeNascimento: 2020, nomeDono: j, cpfDono: j, tipoAnimal: Selvagem
+
+codigo: k, nome: k, raca: k, anoDeNascimento: 2020, nomeDono: k, cpfDono: k, tipoAnimal: Selvagem
+
+codigo: l, nome: l, raca: l, anoDeNascimento: 2020, nomeDono: l, cpfDono: l, tipoAnimal: Selvagem
+
